@@ -6,6 +6,6 @@ def suma(a: int, b: int) -> int:
     # debe dar errores en linter
     """
     x = "no se usa"
-
-    
+    y = "otra variable sin usar"
     return a+ b
+    
