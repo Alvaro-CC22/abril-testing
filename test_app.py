@@ -12,7 +12,6 @@ class SumaTest(unittest.TestCase):
     def test1(self):
         """ Docstring def
         """
-        test = "error"
         res = suma(1, 5)
         self.assertEqual(res, 6)
 
